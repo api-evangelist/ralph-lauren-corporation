@@ -33,7 +33,7 @@ apis: []
 common:
   - type: Website
     url: https://www.ralphlauren.com
-  - type: CorporateWebsite
+  - type: Website
     url: https://corporate.ralphlauren.com
   - type: BrandsOverview
     url: https://corporate.ralphlauren.com/brands
